@@ -1,0 +1,19 @@
+.trending {
+  margin: 0 0 1rem 2rem;
+  padding-left: 0.3rem;
+  /* background-color: blueviolet; */
+  color: #fff;
+  position: relative;
+}
+
+.trending-text {
+  font-size: 32px;
+  margin: 0;
+}
+
+.card-list {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  margin-top: 1rem;
+}

@@ -1,0 +1,19 @@
+.recommend {
+  /* background-color: greenyellow; */
+  margin: 2rem 0rem 2.7rem 2rem;
+  color: #fff;
+  padding-left: 0.3rem;
+}
+
+.recommend-text {
+  font-size: 32px;
+  margin: 0;
+}
+
+.recommend-card-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
+  width: 90%;
+}

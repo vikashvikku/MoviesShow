@@ -1,0 +1,15 @@
+.search {
+  margin: 2.7rem 0rem 1.5rem 2rem;
+  width: 66.5rem;
+  height: 2rem;
+  color: rgb(121, 121, 173);
+}
+
+.input {
+  border: none;
+  width: 54rem;
+  height: 1.8rem;
+  background-color: rgb(27, 27, 36);
+  color: #a59e9e;
+  margin-left: 1rem;
+}
